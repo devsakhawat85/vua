@@ -1,0 +1,6 @@
+{
+  "name": "AX NOW! — On-Time Retail Construction & Facility Service",
+  "description": "Full-service commercial retail construction, maintenance, and emergency facility repair provider serving national and regional retail chains since 1997.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
